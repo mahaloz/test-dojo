@@ -1,5 +1,6 @@
 id: mahaloz-test
 name: mahaloz-test
 type: private
+image: mahaloz/test-chall-img
 modules:
   - id: test-mod
