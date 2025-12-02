@@ -1,0 +1,5 @@
+name: test-mod-chall
+challenges:
+  - id: test-chall
+  name: test-chall
+  image: mahaloz/test-chall-img
