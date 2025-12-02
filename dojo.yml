@@ -3,5 +3,5 @@ name: mahaloz-test
 type: private
 challenges:
   - id: test-chall
-    name: test-chall
-    image: mahaloz/test-chall-img
+  - name: test-chall
+  - image: mahaloz/test-chall-img
